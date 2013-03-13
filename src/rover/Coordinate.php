@@ -1,0 +1,14 @@
+<?php
+
+/*
+ * Basic structure for cartesian plan
+ */
+class Coordinate {
+	public $x;
+	public $y;
+	
+	public function __construct($x, $y) {
+		$this->x = $x;
+		$this->y = $y;
+	}
+}
