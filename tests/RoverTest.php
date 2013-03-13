@@ -2,8 +2,6 @@
 
 require_once dirname(__FILE__) . '/../config/config.php';
 
-require_once 'PHPUnit/Framework.php';
-
 /**
  * Rover test case.
  */
