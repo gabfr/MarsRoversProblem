@@ -1,7 +1,9 @@
-MarsRoversProblem
+MarsRoversProblem 
 =================
 
 The famous Mars Rovers Problem solved In PHP.
+
+[![Build Status](https://travis-ci.org/gabfr/MarsRoversProblem.png?branch=master)](https://travis-ci.org/gabfr/MarsRoversProblem)
 
 Configurations needed
 =====================
