@@ -31,7 +31,7 @@ class Commands {
 		} else if (Commands::$rover instanceof Rover) {
 			$lineOut = sprintf("%d %d %s", Commands::$rover->position->x, 
 					Commands::$rover->position->y, Commands::$rover->position->direction);
-			Commands::$rover = null;
+			//Commands::$rover = null;
 			return $lineOut;
 		}
 	}
